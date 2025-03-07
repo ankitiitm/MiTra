@@ -5,7 +5,9 @@ This repository contains Python scripts for processing and visualizing MiTra tra
 ### Data Overview
 This dataset comprises original videos, tracking logs to validate the videos, and extracted trajectory data of naturalistic traffic collected using unmanned aerial vehicles (drones) over a 900-meter section of the A50 urban freeway in Milan, Italy. Nine flight campaigns, totaling 135 minutes, were conducted using six drones flying in a line to capture comprehensive coverage across all traffic states, from free flow to congested traffic. 
 The dataset offers detailed trajectory data extracted from single drone videos (54 datasets from nine flight campaigns of six drones) and nine datasets of stitched footage from all six drones. With a granularity of 30 frames per second, we extracted over 100,000 vehicle trajectories from single drone videos and over 24,000 trajectories from stitched footage, enabling complete tracking of vehicles across five distinct categories: Cars (73.0%), Medium Vehicles (13.4%), Heavy Vehicles (11.3%), Buses (0.2%), and Motorcycles (2.1%). 
+
 In addition to trajectory data, this dataset includes accompanying original videos and tracking files, showcasing the recorded traffic scenes, providing visual context, and enhancing the usability and interpretability of the trajectory data. The tracking file can be used to map the vehicle ID on the video, enabling various analyses as detailed in the user guide.
+
 This dataset facilitates the analysis of driving behavior, traffic dynamics, and vehicle interactions, offering valuable insights for research, planning, and policymaking in transportation and urban mobility.
 
 
