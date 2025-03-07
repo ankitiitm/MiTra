@@ -31,3 +31,7 @@ The input trajectory data should be in CSV format and contain the following colu
 ### Working with the data
 The analysis includes calculating distances traveled by vehicles, identifying the vehicle with the maximum distance traveled, and fitting a linear regression model to estimate the trajectory angle.
 
+
+### License
+This project is open-source and available under the MIT License.
+
