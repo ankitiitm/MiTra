@@ -12,7 +12,7 @@ This dataset facilitates the analysis of driving behavior, traffic dynamics, and
 
 
 ### Data download:
-MiTra data can be downloaded from OPARA repository at https://doi.org/10.25532/OPARA-706
+MiTra data can be downloaded from OPARA repository at https://doi.org/10.25532/OPARA-881
 
 
 ### Data Format
